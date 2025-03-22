@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+    input[type="radio"].input {
+            accent-color: red; /* Red color for even radio buttons */
+        }
+
+        /* Additional styles for the radio buttons */
+        label {
+            margin-right: 
